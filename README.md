@@ -9,3 +9,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can play a variety of instruments. Like guitar, drums, keyboard and the DAW(digital audio workstation)
 
+I’m always coding, experimenting, and learning, aiming to combine logic and creativity in meaningful ways.
+Feel Free to reach out :)
