@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 - 🔭 I’m currently working on my Software Engineering education
 - 🌱 I’m currently learning a variety of programming constructs (Full-Stack Web Dev + General Python Programming)
 - 👯 I’m looking to collaborate on anything interesting that pops up
@@ -10,4 +8,4 @@
 - 📫 How to reach me: message me on github
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can play a variety of instruments. Like guitar, drums, keyboard and the DAW(digital audio workstation)
--->
+
