@@ -2,10 +2,8 @@
 
 <!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my general computer science education
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on my Software Engineering education
+- 🌱 I’m currently learning a variety of programming constructs (Full-Stack Web Dev + General Python Programming)
 - 👯 I’m looking to collaborate on anything interesting that pops up
 - 🤔 I’m looking for help with modular programming
 - 💬 Ask me about music, I used to mess around with that
