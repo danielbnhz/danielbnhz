@@ -7,6 +7,7 @@ I’m Daniel, a curious builder who’s currently deepening my Software Engineer
 Building my skills across Full-Stack Web Development (React, Tailwind, FastAPI, Vite)
 Strengthening Python fundamentals and exploring data-heavy workflows
 Experimenting with visualizations, automation tools, and small web apps
+I am also getting into data analysis.
  
 ## 🌱 What I’m Learning
 
@@ -28,7 +29,7 @@ If you ever want to chat about production, feel free to contact
  
 ## 📫 Reach Me
  
-Feel free to message me right here on GitHub.
+Feel free to message me right here on GitHub. 
 I’m always open to connecting, pairing, jamming, or learning something new.
  
 ## ⚡ Closing Note
